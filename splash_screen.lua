@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------------------
 --
--- intro_screen.lua
--- Created by: Ms Raffin
--- Date: Nov. 22nd, 2014
+-- splash_screen.lua
+-- Created by: Your Name
+-- Date: Month Day, Year
 -- Description: This is the splash screen of the game. It displays the 
--- company logo with some sort of animation...
+-- company logo that...
 -----------------------------------------------------------------------------------------
 
 -- Use Composer Library
